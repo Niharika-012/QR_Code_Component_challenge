@@ -15,14 +15,14 @@ body{
     font-size: 15px;
 }
 
-.container{
+.main{
     width: 360px;
     margin:auto;
 
 
 }
 
-.card{
+.container1{
     background-color:hsl(0, 0%, 100%);
     padding: 18px;
     border-radius: 17px;
@@ -30,20 +30,20 @@ body{
     margin: 0 1em;
 }
 
-.card img{
+.container1 img{
     width:100%;
     border-radius: 12px;
 }
-.text{
+.container2{
     padding: 22px 10px;
 }
 
-.text h2{
+.container2 h2{
     color:hsl(218, 44%, 22%);
     padding-bottom: 15px;
 }
 
-.text p{
+.container2 p{
     color:hsl(220, 15%, 55%);
 }
 
